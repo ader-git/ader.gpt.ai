@@ -23,7 +23,7 @@
 ## 사용 방법
 
 1. 저장소를 다운로드합니다.
-git clone https://github.com/사용자명/ader.gpt.ai.git
+git clone https://github.com/ader-git/ader.gpt.ai.git
 
 2. 프로젝트 폴더로 이동합니다.
 cd ader.gpt.ai
